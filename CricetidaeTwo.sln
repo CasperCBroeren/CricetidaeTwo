@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CricetidaeTwo", "CricetidaeTwo\CricetidaeTwo.csproj", "{EC90B98E-66AC-4210-A5C6-C40CB0FC5611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CricetidaeTwo.Tests", "CricetidaeTwo.Tests\CricetidaeTwo.Tests.csproj", "{5F3CEAF5-078E-4172-98CF-01754CED1C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC90B98E-66AC-4210-A5C6-C40CB0FC5611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC90B98E-66AC-4210-A5C6-C40CB0FC5611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC90B98E-66AC-4210-A5C6-C40CB0FC5611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC90B98E-66AC-4210-A5C6-C40CB0FC5611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3CEAF5-078E-4172-98CF-01754CED1C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3CEAF5-078E-4172-98CF-01754CED1C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3CEAF5-078E-4172-98CF-01754CED1C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3CEAF5-078E-4172-98CF-01754CED1C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52401B8A-575B-4CE3-BCF8-5847F352F3A3}
+	EndGlobalSection
+EndGlobal
